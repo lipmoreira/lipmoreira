@@ -8,8 +8,9 @@
 
 <h2 align="left">🗨 About Me</h2>
 
- - 📊 Working in the field of Data Analysis since 2023.
- - ♾ Lifelong learner...
+ - 📊 Working in the field of Data Analysis.
+ - 🌎 From São Paulo, Brazil.
+ - 👩🏻‍💻 Learning about Big Data.
 
 <h2 align="left">💻 Tech Skills</h2>
 
