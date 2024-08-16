@@ -1,19 +1,18 @@
 <h1 align="left">Hey! 👋</h1>
-
-<p>
-  <em>
-    Welcome to my repository!
-  </em>
-</p>
+<p> <em>Welcome to my repository!</em> </p>
 
 <h2 align="left">🗨 About Me</h2>
+<ul>
+  <li> <a> 📊 Working in the field of Data Analysis.</a> </li>
+  <li> <a> 👩🏻‍💻 Learning about Big Data.</a> </li>
+  <li> <a> 🌎 From São Paulo, Brazil.</a> </li>  
+</ul>
 
- - 📊 Working in the field of Data Analysis.
- - 🌎 From São Paulo, Brazil.
- - 👩🏻‍💻 Learning about Big Data.
+<h2 align="left">👨🏽‍🏫 Portfolio</h2>
+<p> <em>Check out my data projects!</em> </p>
+<ul><li> <a href="https://linkedin.com/in/lipmoreira">Click here to view! (PT-BR)</a> </li></ul>
 
 <h2 align="left">💻 Tech Skills</h2>
-
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" widht="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" widht="60" height="60"/>&nbsp;
