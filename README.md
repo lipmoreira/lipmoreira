@@ -10,7 +10,7 @@
 
 <h2 align="left">👨🏽‍🏫 Portfolio</h2>
 <p> <em>Check out my data projects!</em> </p>
-<ul><li> <a href="https://linkedin.com/in/lipmoreira">Click here to view! (PT-BR)</a> </li></ul>
+<ul><li> <a href="https://github.com/lipmoreira/PortfolioPT">Click here to view! (PT-BR)</a> </li></ul>
 
 <h2 align="left">💻 Tech Skills</h2>
 <p align="left">
